@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻A construction project manager improving his programming skills.<br>🖧I formerly worked on IoT projects and HR portals.<br>🔐I'm currently working on improving my cybersecurity skills.
+💻 A construction project manager improving his programming skills.<br>🖧 I formerly worked on IoT projects and HR portals.<br>🔐 I'm currently working on improving my cybersecurity skills.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=FabioMazzocco&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FabioMazzocco&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMazzocco&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=FabioMazzocco&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
