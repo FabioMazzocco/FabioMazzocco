@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 A construction project manager improving his programming skills<br>🖧 I formerly worked on IoT projects and HR portals<br>🔐 I'm currently working on improving my cloud and cybersecurity skills
+💻 A construction project manager improving his programming skills<br>🖧 I formerly worked on IoT projects and HR portals
 
 
 ## 🌐 Socials:
